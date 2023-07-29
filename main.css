@@ -1,0 +1,29 @@
+#main{
+
+}
+#header{
+    width: 100%;
+    height: 80px;
+    display: flex;
+    align-items: center;
+}
+
+body {
+    margin: 0;
+    background: #111929;
+    padding: 0 16px 0 16px
+}
+
+html {
+    font-family: system-ui,-apple-system,Segoe UI,Roboto,Ubuntu,Cantarell,Noto Sans,sans-serif,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";;
+}
+
+#header h1 {
+    color: white;
+    padding-left: 16px;
+}
+
+.menu {
+    color: white;
+    padding-left: 64px;
+}
